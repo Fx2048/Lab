@@ -65,3 +65,18 @@ Desktop$ tar -xvzf ~/Downloads/gromacs_sample_input.tgz
 
 
 https://www.youtube.com/watch?v=eDO2DJls8_4
+
+
+# Siguiente  Compilación de Gromacs ✅
+
+ ´´´´
+ gmx mdrun -deffname md0100 -gpu_id 0 
+
+ ´´´´
+ Sintaxis de spc
+ 
+ ´´´´
+
+scp -p root@162.168.1.1:/media/scp.png edward@162.168.1.2:/desktop/destination
+
+´´´´
